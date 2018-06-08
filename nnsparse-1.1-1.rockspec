@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "nnsparse"
-version = "1.1-0"
+version = "1.1-1"
 
 -- LuaDist source
 source = {
-  tag = "1.1-0",
+  tag = "1.1-1",
   url = "git://github.com/LuaDist-testing/nnsparse.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/fstrub95/nnsparse.git",
---    tag = "v1.1.0"
+--    tag = "v1.1.1"
 -- }
 
 description = {
